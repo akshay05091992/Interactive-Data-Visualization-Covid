@@ -43,4 +43,5 @@ We would be using below visualization techniques for the given datasets:
 # Note :
 
 If there is any issue with the datasets use kindly visit https://github.com/CSSEGISandData/COVID-19 for more info.
-The idea of this project is taken from many sources being a first attempt towards the visualization techniques. I would be updating the code to make the visualization better also deployement of the dashboard will be on webserver directly. Right now it is just a .py file with web server link.
+The idea of this project is taken from many sources being a first attempt towards the visualization techniques. I would be updating the code to make the visualization better also deployement of the dashboard will be on webserver directly. Right now it is just a .py file with web server link. 
+Reference : https://towardsdatascience.com/visualizing-worldwide-covid-19-data-using-python-plotly-maps-c0fba09a1b37, https://medium.com/analytics-vidhya/creating-interactive-dashboard-for-covid-19-data-ad8dc8fd0495 ,  https://towardsdatascience.com/creating-an-interactive-data-app-using-plotlys-dash-356428b4699c 
